@@ -49,7 +49,8 @@ To run the application locally, follow these steps:
 ## Made By ByteForce for Google GenAI Excchange hackathon
 
 ### Members:
+- [Sourav Pal](https://github.com/Souravpal08)
 - [Tuhin Ghosh](https://github.com/TuhinCodeCraft)
 - [Anushka Das](https://github.com/AnushkaTechSpace)
 - [Pritam Mahata](https://github.com/PritamMahata)
-- [Sourav Pal](https://github.com/Souravpal08)
+
